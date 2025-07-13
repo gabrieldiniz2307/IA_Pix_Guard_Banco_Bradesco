@@ -76,11 +76,11 @@ Acreditamos que a escolha dessas tecnologias otimiza o desenvolvimento do sistem
 - **Geração de Dados Sintéticos**: O script Python gera um dataset sintético balanceado para treinamento do modelo.
 - **Persistência do Modelo**: O modelo treinado e o vetorizador são salvos em arquivos `.pkl` para recarregamento rápido.
 
-## Integrantes do Grupo
+## Integrante
 - [**João Gabriel de Araújo Diniz**] - [12522198775]
 
 
-## LinkedIn dos Integrantes
+## LinkedIn do Integrante
 
 - [João Gabriel Diniz](https://www.linkedin.com/in/joaogabrieldiniz)
 
