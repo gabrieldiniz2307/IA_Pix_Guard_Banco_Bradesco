@@ -77,13 +77,10 @@ Acreditamos que a escolha dessas tecnologias otimiza o desenvolvimento do sistem
 - **Persistência do Modelo**: O modelo treinado e o vetorizador são salvos em arquivos `.pkl` para recarregamento rápido.
 
 ## Integrantes do Grupo
-
-- [**Carlos Emanuel da Silva Pinho**] - [1252228970]
 - [**João Gabriel de Araújo Diniz**] - [12522198775]
-- [**Tiago Gonçalves de Almeida**] - [12523117709]
+
 
 ## LinkedIn dos Integrantes
 
 - [João Gabriel Diniz](https://www.linkedin.com/in/joaogabrieldiniz)
-- [Carlos Pinho](https://www.linkedin.com/in/carlospinho0101)
-- [Tiago Almeida](https://www.linkedin.com/in/tiagoalmeida-ti)
+
